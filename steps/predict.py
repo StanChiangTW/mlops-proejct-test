@@ -19,6 +19,11 @@ class Predictor:
     def feature_target_separator(self, data):
         X = data.iloc[:, :-1]
         y = data.iloc[:, -1]
+
+        mask = ~y.isna()
+        X = X[mask]
+        y = y[mask]
+
         return X, y
 
     def evaluate_model(self, X_test, y_test):

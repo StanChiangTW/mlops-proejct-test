@@ -49,6 +49,11 @@ class Trainer:
     def feature_target_separator(self, data):
         X = data.iloc[:, :-1]
         y = data.iloc[:, -1]
+        
+        mask = ~y.isna()
+        X = X[mask]
+        y = y[mask]
+
         return X, y
 
     def train_model(self, X_train, y_train):

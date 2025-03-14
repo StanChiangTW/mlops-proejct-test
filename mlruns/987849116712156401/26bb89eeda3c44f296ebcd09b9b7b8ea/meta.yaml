@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/26bb89eeda3c44f296ebcd09b9b7b8ea/artifacts
+end_time: 1741946247879
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 26bb89eeda3c44f296ebcd09b9b7b8ea
+run_name: beautiful-goat-890
+run_uuid: 26bb89eeda3c44f296ebcd09b9b7b8ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741946245050
+status: 4
+tags: []
+user_id: cck

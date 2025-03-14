@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/8bbfa9812c914411938607cf244fbe4f/artifacts
+end_time: 1741946173869
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 8bbfa9812c914411938607cf244fbe4f
+run_name: awesome-kit-658
+run_uuid: 8bbfa9812c914411938607cf244fbe4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741946172906
+status: 4
+tags: []
+user_id: cck

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/33f659ec9da246289ae0291a607ca03f/artifacts
+end_time: 1741945834974
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 33f659ec9da246289ae0291a607ca03f
+run_name: placid-whale-416
+run_uuid: 33f659ec9da246289ae0291a607ca03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741945834647
+status: 4
+tags: []
+user_id: cck
