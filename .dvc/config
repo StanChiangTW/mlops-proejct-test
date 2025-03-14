@@ -1,0 +1,4 @@
+[core]
+    remote = mlops-proejct-test
+['remote "mlops-proejct-test"']
+    url = https://github.com/StanChiangTW/mlops-proejct-test.git
