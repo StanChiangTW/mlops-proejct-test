@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/0ca60d48727d49728993de322155fc28/artifacts
+end_time: 1741949786831
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 0ca60d48727d49728993de322155fc28
+run_name: amazing-stoat-792
+run_uuid: 0ca60d48727d49728993de322155fc28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741949786481
+status: 4
+tags: []
+user_id: cck
